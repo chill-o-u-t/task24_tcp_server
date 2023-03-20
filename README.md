@@ -10,9 +10,9 @@
 ## Installation
 ```git clone git@github.com:chill-o-u-t/task24_tcp_server.git```
 
-```cd ttask24_tcp_server/```
+```cd task24_tcp_server/```
 
-```python -m venv venv```
+```python -m venv venv``` or ``` pythom3 -m venv venv ```
 
 * If U use Windows:
     ```source venv/scripts/activate```
