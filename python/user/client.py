@@ -6,7 +6,7 @@ from google.protobuf.internal.encoder import _VarintBytes
 
 import tcp_connection_pb2
 
-from user.constants import *
+from constants import *
 from logger_config import CustomLogFormatter
 
 

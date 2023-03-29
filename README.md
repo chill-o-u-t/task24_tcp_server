@@ -12,7 +12,7 @@
 
 ```cd task24_tcp_server/```
 
-```python -m venv venv``` or ``` pythom3 -m venv venv ```
+```python -m venv venv``` or ``` python3 -m venv venv ```
 
 * If U use Windows:
     ```source venv/scripts/activate```
